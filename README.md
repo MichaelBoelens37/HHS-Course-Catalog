@@ -4,8 +4,8 @@ This is a project that a partner and I created in our Advanced Computer Science 
 
 ### Pictures
 
-<img src="pic1.png" alt="Screenshot" width="300" height="200">
-<img src="pic3.png" alt="Screenshot" width="300" height="200">
-<img src="pic4.png" alt="Screenshot" width="300" height="200">
-<img src="pic5.png" alt="Screenshot" width="300" height="200">
-<img src="pic6.png" alt="Screenshot" width="300" height="200">
+<img src="pic1.png" alt="Screenshot" width="600" height="400">
+<img src="pic3.png" alt="Screenshot" width="600" height="400">
+<img src="pic4.png" alt="Screenshot" width="600" height="400">
+<img src="pic5.png" alt="Screenshot" width="600" height="400">
+<img src="pic6.png" alt="Screenshot" width="600" height="400">
