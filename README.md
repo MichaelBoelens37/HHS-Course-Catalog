@@ -4,7 +4,7 @@ This is a project that a partner and I created in our Advanced Computer Science 
 
 ### Pictures
 
-![Alt Text]("C:\Users\mboel\HHS-Course-Catalog\pic1.png")
+![Screenshot]("C:\Users\mboel\HHS-Course-Catalog\pic1.png")
 ![Screenshot]("C:\Users\mboel\HHS-Course-Catalog\pic3.png")
 ![Screenshot]("C:\Users\mboel\HHS-Course-Catalog\pic4.png")
 ![Screenshot]("C:\Users\mboel\HHS-Course-Catalog\pic5.png")
