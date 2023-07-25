@@ -4,6 +4,7 @@ This is a project that a partner and I created in our Advanced Computer Science 
 
 ### Pictures
 
+<img src="pic1.png" alt="Screenshot" width="50" height="30">
 ![Screenshot](pic1.png)
 ![Screenshot](pic3.png)
 ![Screenshot](pic4.png)
