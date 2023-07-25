@@ -4,8 +4,8 @@ This is a project that a partner and I created in our Advanced Computer Science 
 
 ### Pictures
 
-![Screenshot]("C:\Users\mboel\HHS-Course-Catalog\pic1.png")
-![Screenshot]("C:\Users\mboel\HHS-Course-Catalog\pic3.png")
-![Screenshot]("C:\Users\mboel\HHS-Course-Catalog\pic4.png")
-![Screenshot]("C:\Users\mboel\HHS-Course-Catalog\pic5.png")
-![Screenshot]("C:\Users\mboel\HHS-Course-Catalog\pic6.png")
+![Screenshot](pic1.png)
+![Screenshot](pic3.png)
+![Screenshot](pic4.png)
+![Screenshot](pic5.png)
+![Screenshot](pic6.png)
