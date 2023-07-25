@@ -4,17 +4,12 @@ This is a project that a partner and I created in our Advanced Computer Science 
 
 ### Screenshots
 
-home screen:
 <img src="pic1.png" alt="Screenshot" width="600" height="400">
 
-search by filter:
 <img src="pic3.png" alt="Screenshot" width="600" height="400">
 
-search by class name:
 <img src="pic4.png" alt="Screenshot" width="600" height="400">
 
-view favorited classes:
 <img src="pic5.png" alt="Screenshot" width="600" height="400">
 
-classes page:
 <img src="pic6.png" alt="Screenshot" width="600" height="400">
